@@ -28,3 +28,16 @@
 
 ## Connect With Me
 - GitHub: https://github.com/Lekhithasree
+- ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lekhithasree&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekhithasree&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lekhithasree&theme=tokyonight" />
+</p>
