@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Lekhithasree%20Yadav%20Mulakala&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Python%20%7C%20AI%20%7C%20Data%20Analytics&descAlignY=55&descSize=16" />
 # Hi, I'm Lekhithasree 👋
 
 ## About Me
